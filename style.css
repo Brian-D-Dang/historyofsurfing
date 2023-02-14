@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+body {
+  font-family: "Open Sans", "Roboto Condensed";
+  background-image: url("https://images.unsplash.com/photo-1529592243309-82007397a66e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VmZXJ8ZW58MHx8MHx8&w=1000&q=80");
+  background-size:cover;
+  color: yellow;
+}
+
+.profiles {
+  width: 200px;
+  height:200px;
+  text-align: center;
+  margin: 10px 10px 10px 10px;
+  float:left;
+}
+
+#profile1 {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Anonymous_photograph_of_Duke_Paoa_Kahanamoku_with_his_surfboard.JPG/372px-Anonymous_photograph_of_Duke_Paoa_Kahanamoku_with_his_surfboard.JPG');
+  background-size:cover;
+}
+
+#profile2 {
+  background-image: url('http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQ23_9gXO6FNLL4gZevg_TRWlNQmlqrzia3-z-6NsFhyt24MgZSb0CxYyX_kQfnl6HFXXFLJVCRjKwrkiE');
+  background-size:cover;
+}
+
+#profile3 {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg');
+  background-size:cover;
+}
+
+#profile4 {
+  background-image: url('https://pyxis.nymag.com/v1/imgs/8c2/118/92e4b1bdb35831bb734208fcde2bc3bec4-12-1-WICLW.rsquare.w700.jpg');
+  background-size:cover;
+}
+
+img {
+  width:200px
+}
